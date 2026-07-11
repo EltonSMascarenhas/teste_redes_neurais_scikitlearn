@@ -15,7 +15,7 @@ st.set_page_config(
 # Cabeçalho Superior Personalizado
 st.markdown(
     """
-    <div style="background-color:#2c3e50; padding:18px; border-radius:8px; margin-bottom:25px;">
+    <div style="background-color:#FF8C00; padding:18px; border-radius:8px; margin-bottom:25px;"> #2c3e50
         <h2 style="color:white; text-align:center; margin:0; font-family:Helvetica;">
             Painel de Diagnóstico de Serviços & Treinamento (IA)
         </h2>
